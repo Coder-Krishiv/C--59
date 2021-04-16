@@ -1,0 +1,48 @@
+.menu {
+list-style :none ; 
+font-family : fantasy ; 
+color : cyan ; 
+top : 10px ; 
+right : 30px ;
+cursor : pointer ; 
+z-index : 10 ;
+}
+
+
+.link{
+padding : 10px ;
+font-size: 20px ; 
+}
+
+
+.link:hover {
+    background-color : fuchsia; 
+}
+
+#bio{
+background-color: fuchsia;
+font-family:fantasy;
+
+margin-right: 50px;    
+width:100%;    
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#welcome{
+background-color: aqua;
+font-family :monospace;   
+width:100%;    
+margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+h1{
+font-size: 50px;    
+}
+
+h2{
+    font-size: 30px;
+}
+
+
